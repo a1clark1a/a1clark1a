@@ -89,11 +89,27 @@ A focused dice probability tool for tabletop and strategy gaming. Build a table 
 
 ## 💼 Professional Highlights
 
-- **Pick and Pack, OneView Commerce:** Shipped an order fulfillment app to 50+ Molton Brown stores. Built the serverless AWS Lambda API, IndexedDB offline sync, and Firestore optimistic locking with versioned documents.
-- **Australia Post DB Migration, OneView Commerce:** Wrote the Node.js script that moved 1M+ IBM Cloudant documents to Firestore with 100% transfer accuracy, using atomic batch writes, fail-and-split retry logic, dead letter queuing, and checkpoint-based resumability.
-- **Pickup & Delivery Alert Center, OneView Commerce:** Migrated an existing Kroger driver dashboard from Cloudant to Firestore and added real-time `onSnapshot` updates with badge-dispatch notifications, used by 100+ drivers.
-- **Self-Checkout POS, OneView Commerce:** Built the item selection, barcode scanning, and cart flows for a self-checkout MVP (React, Redux, TypeScript, Cordova) demoed to 1,000+ attendees at NRF.
-- **CRM & Billing, Onboardlist:** Built the React/Chakra CRM dashboard, refactored account management and Stripe billing endpoints, and moved hardcoded API keys out of the repo and into environment variables.
+### Software Development Engineer · OneView Commerce _(May 2021 – Feb 2025)_
+
+Enterprise SaaS retail platform delivering Omni-Channel POS, Order Fulfillment, and CRM solutions to global brands.
+
+- **Pick and Pack:** Shipped an order fulfillment app to 50+ Molton Brown stores. Built the serverless AWS Lambda API, IndexedDB offline sync, and Firestore optimistic locking with versioned documents.
+- **Australia Post DB Migration:** Wrote the Node.js script that moved 1M+ IBM Cloudant documents to Firestore with 100% transfer accuracy, using atomic batch writes, fail-and-split retry logic, dead letter queuing, and checkpoint-based resumability.
+- **Pickup & Delivery Alert Center:** Migrated an existing Kroger driver dashboard from Cloudant to Firestore and added real-time `onSnapshot` updates with badge-dispatch notifications, used by 100+ drivers.
+- **Self-Checkout POS:** Built the item selection, barcode scanning, and cart flows for a self-checkout MVP (React, Redux, TypeScript, Cordova) demoed to 1,000+ attendees at NRF.
+
+### Software Engineer · OnboardList _(Jul 2020 – May 2021)_
+
+Early-stage startup building onboarding workflow tools for SMBs.
+
+- **CRM & Billing:** Built the React/Chakra CRM dashboard, refactored account management and Stripe billing endpoints, and moved hardcoded API keys out of the repo and into environment variables.
+- **Onboarding Widget:** Built an embeddable onboarding checklist widget in pure vanilla JavaScript, with real-time progress sync over Pusher.
+
+### Frontend Developer · Dananza _(Jan 2020 – Apr 2020)_
+
+Two-sided marketplace connecting local businesses with food influencers for campaign-based marketing.
+
+- **Campaign Pages:** Built the new-user campaign page series in React.js and Next.js — a guided flow business owners use to launch a campaign and influencers use to discover and apply.
 
 ## 📫 Get In Touch
 
@@ -109,7 +125,7 @@ A focused dice probability tool for tabletop and strategy gaming. Build a table 
 
 ![Clark's GitHub Stats](https://github-stats-extended.vercel.app/api?username=a1clark1a&show_icons=true&hide_border=true&theme=tokyonight)
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=a1clark1a&layout=compact&hide_border=true&theme=tokyonight&exclude_repo=SFML_ClubProject,GameCollectionProject,TetrisGame)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=a1clark1a&hide_border=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=a1clark1a&hide_border=true&theme=tokyonight)
 
 </div>
 
