@@ -125,7 +125,7 @@ Two-sided marketplace connecting local businesses with food influencers for camp
 
 ![Clark's GitHub Stats](https://github-stats-extended.vercel.app/api?username=a1clark1a&show_icons=true&hide_border=true&theme=tokyonight)
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=a1clark1a&layout=compact&hide_border=true&theme=tokyonight&exclude_repo=SFML_ClubProject,GameCollectionProject,TetrisGame)
-![GitHub Streak](https://streak-stats.demolab.com/?user=a1clark1a&hide_border=true&theme=tokyonight)
+![GitHub Streak](./profile/streak.svg)
 
 </div>
 
