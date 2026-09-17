@@ -2,7 +2,7 @@
 
 # Hi there, I'm Clark 👋
 
-### Full-Stack Software Engineer | React · React Native · TypeScript · Node.js
+### Senior Full-Stack Software Engineer | React · React Native · TypeScript · Node.js
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/acperfecto)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a1clark1a@gmail.com)
@@ -71,17 +71,17 @@ New dad. Full-time DM. Occasionally these turn out to be the same job.
 
 ## 🛠️ Projects
 
-| Project                   | What it does                                                                                                                | Stack                                              | Link                                                       |
-| ------------------------- | --------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ---------------------------------------------------------- |
-| **Tag-A-Log**             | Offline-first log app: tag-first organization, rich text editing, bidirectional SQLite ↔ Firestore sync engine              | Expo, React Native, React 19, TypeScript, Firebase | 🔒 Private, pre-launch                                     |
-| **Daily Verse Generator** | Verse-card generator: a Cloud Function composites SVG-on-PNG cards across 7 translations, backed by Firestore rate limiting | Next.js 15, TypeScript, Firebase, Vercel           | [Repo](https://github.com/a1clark1a/daily-verse-generator) |
-| **Portfolio**             | Personal portfolio site                                                                                                     | React                                              | [Repo](https://github.com/a1clark1a/Portfolio)             |
+| Project                   | Timeline            | What it does                                                                                                                | Stack                                              | Link                                                       |
+| ------------------------- | ------------------- | --------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ---------------------------------------------------------- |
+| **Tag-A-Log**             | Jan 2026 – Present  | Offline-first log app: tag-first organization, rich text editing, bidirectional SQLite ↔ Firestore sync engine              | Expo, React Native, React 19, TypeScript, Firebase | 🔒 Private, pre-launch                                     |
+| **Daily Verse Generator** | Oct – Nov 2025      | Verse-card generator: a Cloud Function composites SVG-on-PNG cards across 7 translations, backed by Firestore rate limiting | Next.js 15, TypeScript, Firebase, Vercel           | [Repo](https://github.com/a1clark1a/daily-verse-generator) |
+| **Portfolio**             | 2019 – Present      | Personal portfolio site                                                                                                     | React                                              | [Repo](https://github.com/a1clark1a/Portfolio)             |
 
 ## 🌟 Open Source Projects
 
 | 🎁 Project                                              | 🔗 Live                                   | ⭐ Stars                                                                                                                                        | 🍴 Forks                                                                                                                                   | 🛎 Issues                                                                                                                                     | 📬 PRs                                                                                                                                       |
 | ------------------------------------------------------- | ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| [**DiceTable**](https://github.com/a1clark1a/diceTable) | [dice-table.app](https://dice-table.app/) | [![Stars](https://img.shields.io/github/stars/a1clark1a/diceTable?style=flat-square&label=)](https://github.com/a1clark1a/diceTable/stargazers) | [![Forks](https://img.shields.io/github/forks/a1clark1a/diceTable?style=flat-square&label=)](https://github.com/a1clark1a/diceTable/forks) | [![Issues](https://img.shields.io/github/issues/a1clark1a/diceTable?style=flat-square&label=)](https://github.com/a1clark1a/diceTable/issues) | [![PRs](https://img.shields.io/github/issues-pr/a1clark1a/diceTable?style=flat-square&label=)](https://github.com/a1clark1a/diceTable/pulls) |
+| [**DiceTable**](https://github.com/a1clark1a/diceTable)<br/>_Mar 2026 – Present_ | [dice-table.app](https://dice-table.app/) | [![Stars](https://img.shields.io/github/stars/a1clark1a/diceTable?style=flat-square&label=)](https://github.com/a1clark1a/diceTable/stargazers) | [![Forks](https://img.shields.io/github/forks/a1clark1a/diceTable?style=flat-square&label=)](https://github.com/a1clark1a/diceTable/forks) | [![Issues](https://img.shields.io/github/issues/a1clark1a/diceTable?style=flat-square&label=)](https://github.com/a1clark1a/diceTable/issues) | [![PRs](https://img.shields.io/github/issues-pr/a1clark1a/diceTable?style=flat-square&label=)](https://github.com/a1clark1a/diceTable/pulls) |
 
 A focused dice probability tool for tabletop and strategy gaming. Build a table of named dice rolls (keep/reroll/explode rules, advantage/disadvantage), get exact stats via full-convolution math (no Monte Carlo), and overlay every roll's distribution on one chart to compare at a glance. React 19, TypeScript, Chakra UI v3, Recharts. MIT licensed, open to contributions.
 
@@ -89,9 +89,13 @@ A focused dice probability tool for tabletop and strategy gaming. Build a table 
 
 ## 💼 Professional Highlights
 
-### Software Development Engineer · OneView Commerce _(May 2021 – Feb 2025)_
+### Senior Software Development Engineer · OneView Commerce _(Sep 2026 – Present)_
 
 Enterprise SaaS retail platform delivering Omni-Channel POS, Order Fulfillment, and CRM solutions to global brands.
+
+### Software Development Engineer · OneView Commerce _(May 2021 – Feb 2025)_
+
+Owned the order fulfillment system end-to-end: serverless API, offline sync, and data layer. Shipped to 50+ Molton Brown stores.
 
 ### Software Engineer · OnboardList _(Jul 2020 – May 2021)_
 
